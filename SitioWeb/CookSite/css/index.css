@@ -1,0 +1,7 @@
+.carta1{
+    background-color: #db23ad;
+    transition: background-color 1s linear;
+ }
+ .carta1:hover{
+    background-color: #3F51B5;
+ }
